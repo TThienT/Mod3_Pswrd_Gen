@@ -1,5 +1,13 @@
 # Mod3_Pswrd_Gen
 
+#Description
+-Generate password with user option for legnth, and option of characters.
+
+#Application
+Link to my website
+-https://tthient.github.io/Mod3_Pswrd_Gen/
+
+
 # Source
 
 -https://stackoverflow.com/questions/1497481/javascript-password-generator
